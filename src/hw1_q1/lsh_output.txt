@@ -1,0 +1,23 @@
+Hash_size = 0.01 * n_plu 
+Pick up a vip: 1590150759228
+Top 1 : vipno = 1595160221505, distance = 660
+Top 2 : vipno = 2900000771062, distance = 701
+Top 3 : vipno = 1595150739027, distance = 932
+Top 4 : vipno = 1595151291005, distance = 1010
+Top 5 : vipno = 1595142205462, distance = 1390
+
+Hash_size = 0.05 * n_plu 
+Pick up a vip: 1592015013285
+
+Hash_size = 0.1 * n_plu 
+Pick up a vip: 1591015094393
+
+Hash_size = 0.2 * n_plu 
+Pick up a vip: 1590142190480
+
+Hash_size = 0.3 * n_plu 
+Pick up a vip: 2900003116167
+
+Hash_size = 0.5 * n_plu 
+Pick up a vip: 2900001270205
+
